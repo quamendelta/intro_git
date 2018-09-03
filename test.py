@@ -16,4 +16,3 @@ print("TEST!!!")
 
 irint
 
-git status
