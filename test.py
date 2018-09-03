@@ -9,10 +9,12 @@ if a > 1:
 else:
     print("OK")
 
+レストラン
 
 # ここは！！git commit
 test
 te
 
 print("TEST!!!")
+itsi
 
