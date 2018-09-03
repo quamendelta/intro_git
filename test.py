@@ -19,3 +19,8 @@ te
 print("TEST!!!")
 itsi
 git diff
+
+日本語入力テスト
+
+Japanese inport test
+
