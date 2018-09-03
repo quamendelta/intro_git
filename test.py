@@ -14,5 +14,3 @@ else:
 
 print("TEST!!!")
 
-irint
-
